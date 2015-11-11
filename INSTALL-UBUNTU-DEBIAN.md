@@ -9,6 +9,7 @@ Operating Systems
 - Ubuntu 12.04
 - Ubuntu 12.10
 - Ubuntu 13.10
+- Ubuntu 15.04
 - Debian 7.4
 
 
@@ -18,7 +19,7 @@ Operating Systems
 
 #### Step 2: Install packages for Junos PyEZ
 
-    sudo apt-get install -y python-pip python-dev libxml2-dev libxslt-dev
+    sudo apt-get install -y python-pip python-dev libxml2-dev libxslt-dev libz-dev
 	
 #### Step 3: Install Junos PyEZ
 
